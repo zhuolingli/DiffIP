@@ -1,0 +1,12 @@
+.DS_Store
+.coverage
+.pytest_cache/
+.ruff_cache/
+.venv/
+.lh/
+__pycache__/
+*.egg-info/
+build/
+dist/
+website/
+*.pdf
