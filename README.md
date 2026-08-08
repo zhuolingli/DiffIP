@@ -8,7 +8,7 @@
 
 <p>
   <a href="https://openaccess.thecvf.com/content/ICCV2025/papers/Li_DiffIP_Representation_Fingerprints_for_Robust_IP_Protection_of_Diffusion_Models_ICCV_2025_paper.pdf"><img src="https://img.shields.io/badge/Paper-ICCV%202025-b31b1b" alt="Paper"></a>
-  <a href="https://zhuoling.site/DiffIP/"><img src="https://img.shields.io/badge/Project-Page-2ea44f" alt="Project Page"></a>
+  <a href="https://zhuoling.site/DiffIP-projectpage/"><img src="https://img.shields.io/badge/Project-Page-2ea44f" alt="Project Page"></a>
   <a href="LICENSE.md"><img src="https://img.shields.io/badge/License-MIT-4b44ce" alt="License"></a>
 </p>
 
